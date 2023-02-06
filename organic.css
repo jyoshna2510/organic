@@ -41,7 +41,7 @@
     border-radius:60px;
 }
 .main{
-    /* background:url('../Images/lunchbox2.jpg') no-repeat; */
+    /* background:url('./Images/lunchbox2.jpg') no-repeat; */
     background: url('https://images.unsplash.com/photo-1543352634-99a5d50ae78e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80');
     background-repeat: no-repeat;
     background-size: cover;
@@ -80,7 +80,7 @@
 }
 
 .about{
-    background:url('../Images/abut.jpg');
+    background:url('./Images/abut.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height:90vh;
@@ -253,7 +253,7 @@
 }
 
 .contact{
-    background:url('../Images/cont.jpg');
+    background:url('./Images/cont.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width:100%;
